@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">USBankAssignment</string>
+    <string name="internet_dialog_message">internet not available</string>
+    <string name="internet_dialog_title">internet issue</string>
+    <string name="ok">ok</string>
+    <string name="rateNotAvailable_dialog_message">Rates not available this time ,try again later</string>
+    <string name="rateNotAvailable_dialog_title">rates not available</string>
+    <string name="click_start_button_to_listen_audio">click start button to listen audio</string>
+    <string name="audioPrepareText">audio is downloading and preparing</string>
+    <string name="audio_playing_info">Audio is playing... enjoy...</string>
+    <string name="stop">stop</string>
+    <string name="play">play</string>
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNY</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>HRK</item>
+        <item>HUF</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>MXN</item>
+        <item>MYR</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>TRY</item>
+        <item>ZAR</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
